@@ -6,5 +6,5 @@ puts "Please enter ten numbers:"
   total = total + user_number
 end
 
-puts "Your sum is:"
+puts "Your sum for all ten numbers:"
 puts total
